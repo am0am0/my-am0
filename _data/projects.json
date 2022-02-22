@@ -1,36 +1,36 @@
 [
     {
-        "image": "assets/img/user/시바.jpg",
+        "image": "assets/img/user/shiba1.jpg",
         "title": "시바 01",
         "description": "시바견 1",
         "link": "#"
     },
     {
-        "image": "assets/img/user/시바둘.jpg",
+        "image": "assets/img/user/shiba2.jpg",
         "title": "시바 02",
         "description": "시바견 2",
         "link": "#"
     },
     {
-        "image": "assets/img/user/시바셋.jpg",
+        "image": "assets/img/user/shiba3.jpg",
         "title": "시바 03",
         "description": "시바견 3",
         "link": "#"
     },
     {
-        "image": "assets/img/user/시바넷.jpg",
+        "image": "assets/img/user/shiba4.jpg",
         "title": "시바 04",
         "description": "시바견 4",
         "link": "#"
     },
     {
-        "image": "assets/img/user/골든.jpg",
+        "image": "assets/img/user/golden.jpg",
         "title": "골댕",
         "description": "골든 리트리버",
         "link": "#"
     },
     {
-        "image": "assets/img/user/리트리버.jpg",
+        "image": "assets/img/user/ret.jpg",
         "title": "리트리버",
         "description": "리트리버 3마리",
         "link": "#"
