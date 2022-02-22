@@ -1,37 +1,37 @@
 [
     {
-        "image": "assets/img/user/시바1.jpg",
-        "title": "My Title 01",
+        "image": "assets/img/user/시바.jpg",
+        "title": "시바 01",
         "description": "My Description 01",
         "link": "#"
     },
     {
-        "image": "assets/img/user/시바2.jpg",
-        "title": "My Title 02",
+        "image": "assets/img/user/시바둘.jpg",
+        "title": "시바 02",
         "description": "My Description 02",
         "link": "#"
     },
     {
-        "image": "assets/img/user/시바3.jpg",
-        "title": "My Title 03",
+        "image": "assets/img/user/시바셋.jpg",
+        "title": "시바 03",
         "description": "My Description 03",
         "link": "#"
     },
     {
-        "image": "assets/img/user/시바4.jpg",
-        "title": "My Title 04",
+        "image": "assets/img/user/시바넷.jpg",
+        "title": "시바 04",
         "description": "My Description 04",
         "link": "#"
     },
     {
         "image": "assets/img/user/골든.jpg",
-        "title": "My Title 05",
+        "title": "골댕 05",
         "description": "My Description 05",
         "link": "#"
     },
     {
         "image": "assets/img/user/리트리버.jpg",
-        "title": "My Title 06",
+        "title": "리트리버 06",
         "description": "My Description 06",
         "link": "#"
     }
