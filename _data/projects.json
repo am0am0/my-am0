@@ -1,9 +1,9 @@
 [
     {
-        "image": "assets/img/user/shiba1.jpg",
-        "title": "시바 01",
+        "image": "assets/img/user/wordcloud.png",
+        "title": "웹 스크래핑",
         "description": "시바견 1",
-        "link": "#"
+        "link": "https://colab.research.google.com/drive/1WLQ-pXkY-ZoF63Jco777kItsfpx3vZFx?usp=sharing"
     },
     {
         "image": "assets/img/user/shiba2.jpg",
