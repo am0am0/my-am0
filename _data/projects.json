@@ -1,12 +1,12 @@
 [
     {
-        "image": "assets/img/user/wordcloud1.jpg",
+        "image": "assets/img/elements/cc01.jpg",
         "title": "웹 스크래핑",
         "description": "자동차 웹 스크래핑",
         "link": "https://colab.research.google.com/drive/1WLQ-pXkY-ZoF63Jco777kItsfpx3vZFx?usp=sharing"
     },
     {
-        "image": "assets/img/user/imago.jpg",
+        "image": "assets/img/elements/cc0.jpg",
         "title": "자세 추정 모델",
         "description": "자세 추정 모델",
         "link": "https://drive.google.com/file/d/1R3qwDvWdWjevcb9vuBK0-Ccb1U1nYchp/view?usp=sharing"
