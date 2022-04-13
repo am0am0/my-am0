@@ -1,38 +1,38 @@
 [
     {
-        "image": "assets/img/user/wordcloud.png",
+        "image": "assets/img/user/wordcloud1.jpg",
         "title": "웹 스크래핑",
         "description": "자동차 웹 스크래핑",
         "link": "https://colab.research.google.com/drive/1WLQ-pXkY-ZoF63Jco777kItsfpx3vZFx?usp=sharing"
     },
     {
-        "image": "assets/img/user/2022-04-13.png",
+        "image": "assets/img/user/imago.jpg",
         "title": "자세 추정 모델",
         "description": "자세 추정 모델",
         "link": "https://drive.google.com/file/d/1R3qwDvWdWjevcb9vuBK0-Ccb1U1nYchp/view?usp=sharing"
     },
     {
-        "image": "assets/img/user/shiba3.jpg",
-        "title": "시바 03",
-        "description": "시바견 3",
+        "image": "assets/img/elements/cc1.jpg",
+        "title": " ",
+        "description": " ",
         "link": "#"
     },
     {
-        "image": "assets/img/user/shiba4.jpg",
-        "title": "시바 04",
-        "description": "시바견 4",
+        "image": "assets/img/elements/cc1a.jpg",
+        "title": " ",
+        "description": " ",
         "link": "#"
     },
     {
-        "image": "assets/img/user/golden.jpg",
-        "title": "골댕",
-        "description": "골든 리트리버",
+        "image": "assets/img/elements/cc1b.jpg",
+        "title": " ",
+        "description": "",
         "link": "#"
     },
     {
-        "image": "assets/img/user/ret.jpg",
-        "title": "리트리버",
-        "description": "리트리버 3마리",
+        "image": "assets/img/elements/cc1c.jpg",
+        "title": " ",
+        "description": " ",
         "link": "#"
     }
 ]
